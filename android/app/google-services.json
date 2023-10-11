@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400828471751",
+    "project_id": "socialmediaapp-e4bab",
+    "storage_bucket": "socialmediaapp-e4bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400828471751:android:fb46a77dac4ad40969e1e2",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqnhK2PYZowQjJW7vLTIGumKPMKQqKgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
